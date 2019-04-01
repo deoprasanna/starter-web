@@ -15,3 +15,7 @@ This is purpose
 this is anotehre
 
 next line
+
+### Copyright
+
+2014 Git Training
