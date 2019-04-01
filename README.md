@@ -11,6 +11,7 @@ This is introduction
 This is purpose
 
 ## How To Contribute
+Please fork this repository and then issue Pull Request for review.
 
 this is anotehre
 
