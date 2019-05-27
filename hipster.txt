@@ -3,3 +3,5 @@ hipster.txt file added first time
 second time text modified
 third time text modified
 fourth line added
+
+rebase example
