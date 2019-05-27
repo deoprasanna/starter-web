@@ -20,3 +20,5 @@ next line
 ### Copyright
 
 2014 Git Training
+
+did some changes during rebasing
