@@ -21,4 +21,4 @@ next line
 
 2014 Git Training
 
-did some changes during rebasing
+did some changes during rebasing, then more changes made.
