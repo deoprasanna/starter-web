@@ -19,6 +19,6 @@ next line
 
 ### Copyright
 
-2014 Git Training
+2014 Git Training. All rights reserverd.
 
 did some changes during rebasing, then more changes made.
