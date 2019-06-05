@@ -5,3 +5,5 @@ third time text modified
 fourth line added
 
 rebase example
+
+stash untracked files example
