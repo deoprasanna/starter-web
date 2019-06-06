@@ -2,6 +2,8 @@
 
 This is a simple website. Updating for emergency fix after stashing.
 
+Stash example
+
 ## Introduction
 
 This is introduction
